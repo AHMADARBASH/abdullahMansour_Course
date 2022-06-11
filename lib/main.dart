@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:wheel_chooser/wheel_chooser.dart';
 
 void main() {
   runApp(const BMICalculator());
